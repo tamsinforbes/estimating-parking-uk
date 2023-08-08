@@ -1,2 +1,3 @@
-# estimating-parking-uk
-Estimating parking provision for the UK MSc Data Science project
+# Estimating Parking
+
+Estimating parking provision for the UK: MSc Data Science project.
